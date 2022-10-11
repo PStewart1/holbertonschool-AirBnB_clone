@@ -51,7 +51,7 @@ All unittests are in the `./tests` directory with the command:
 
 
 
-## Authors
+## Contributers
 
 * Nathen Williams - https://github.com/AlleywayNate
 * Paul Stewart - https://github.com/PStewart1
