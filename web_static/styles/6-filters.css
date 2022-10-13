@@ -49,10 +49,9 @@ h4 {
     margin: 0px 0px 0px 25px;
 }
 
-.amenities h2 {
+.locations h2 {
     font-size: 16px;
-    margin: 30px 0px 0px 0px;
-
+    margin: 0px 0px 0px 0px;
 }
 
 .popover {
@@ -61,6 +60,8 @@ h4 {
     border-radius: 4px;
     display: none;
     margin: 17px 0px 0px -15px;
+    padding: 25px 0px 30px 40px;
+    position: relative;
 }
 
 div:hover > .popover {
@@ -71,7 +72,7 @@ div:hover > .popover {
     display: block;
     position: relative;
     text-align: left;
-    margin: 0px 0px 0px -15px;
+    margin: 0px 0px 20px -15px;
 }
 
 .locations > ul > li > ul > li {
